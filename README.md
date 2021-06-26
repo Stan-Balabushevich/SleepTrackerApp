@@ -6,3 +6,5 @@ You can record a start and stop time, assign a quality rating, and clear the dat
 
 Using Room DataBase, Coroutines, RecyclerView with clickable items and viewHolder for header, ViewModel, 
 ViewModelFactory, LiveData, BindingAdapter.
+
+A part of Android Kotlin Fundamentals course by Google
